@@ -5,6 +5,9 @@
   "src": "./src/",
   "public": "./dist/",
   "main": "./dist/ui-scroll.js",
+  "publishConfig": {
+    "registry": "https://changegamers.pkgs.visualstudio.com/_packaging/cg-npm-registry/npm/registry/"
+  },
   "homepage": "https://github.com/angular-ui/ui-scroll",
   "author": {
     "name": "Michael Feingold",
